@@ -2,6 +2,8 @@ import moment from 'moment';
 import { parse, stringify } from 'qs';
 
 export const ENV = {
+  version: '0.0.1',
+
   appname: '去投网',
   hometitle: '【去投网】P2P理财- 中国领先的互联网理财借贷P2P平台',
   keywords: '去投网，p2p网贷平台，p2c投融资平台,网上理财,p2p理财,普惠金融, 智慧金融,投资者平台,个人投资理财,互联网理财,理财融资,投资理财网,网络投资,企业贷款,足值抵押,p2b平台,p2p网贷平台,互联网金融,科技金融,放心投资,放心理财,短期理财产品,互联网金融服务，云计算。',
